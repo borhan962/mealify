@@ -1,0 +1,260 @@
+
+@media screen and  (max-width: 600px)   { 
+
+     .nav-list{
+        display: none;
+     }
+
+    #home .container .all-home{
+        flex-direction: column-reverse;
+        text-align: center;
+
+    }
+    .home-content{
+        width: 100%;
+    }
+
+    .home-logo{
+        width: 80%;
+    }
+
+    .container .btn-group{
+        justify-content: center;
+    }
+
+    .container .home-content .btn-main{
+        border-radius: 20px 20px 20px;
+    }
+
+    .chefs-cards .card{
+        width: 100%;
+    }
+
+    .col{
+        width: 100%;
+    }
+
+    .details  .row{
+        width: 100%;
+    }
+
+    .input-group input, textarea{
+        width: 100%;
+    }
+
+    footer .container{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    footer .about{
+        width: 100%;
+    }
+
+    footer  .subscribe{
+        width: 100%;
+    }
+
+    .subscription-group input{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .subscription-group .btn{
+        width: 100%;
+    }
+
+    footer .quick-links h3{
+        padding: 0;
+    }
+
+
+ }
+
+
+ @media screen and (min-width:601px)  and (max-width:768px){
+
+    #home .container .all-home{
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+    .home-content{
+        width: 100%;
+    }
+
+    .home-logo{
+        width: 90%;
+    }
+
+    .container .btn-group{
+        justify-content: center;
+    }
+
+    .container .home-content .btn-main{
+        border-radius: 20px 20px 20px;
+    }
+
+    #chefs .container{
+        width: 70%;
+    }
+
+    .chefs-cards .card{
+        width: 100%;
+    }
+
+    .col{
+        width: 100%;
+    }
+
+    .details  .row{
+        width:100%;
+    }
+
+    .input-group input, textarea{
+        width: 100%;
+    }
+
+    footer .container{
+        flex-direction: column;
+        width: 90%;
+    }
+
+    footer .about{
+        width: 100%;
+    }
+
+    footer  .subscribe{
+        width: 100%;
+    }
+
+    .subscription-group input{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .subscription-group .btn{
+        width: 100%;
+    }
+
+    footer .quick-links h3{
+        padding: 0;
+    }
+ }
+
+ @media screen and (min-width:769px) and (max-width:992px){
+
+
+    #home .container .all-home{
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+    .home-content{
+        width: 100%;
+    }
+
+    .home-logo{
+        width: 90%;
+    }
+
+    .container .btn-group{
+        justify-content: center;
+    }
+
+    .container .home-content .btn-main{
+        border-radius: 20px 20px 20px;
+    }
+
+    #chefs .container{
+        width: 90%;
+    }
+
+    .chefs-cards .card{
+        width: 40%;
+        
+    }
+
+    #gallery .container{
+        width: 90%;
+    }
+
+    .col{
+        width:30%;
+    }
+
+    .details  .row{
+        height: 120px;
+    }
+
+    .input-group input, textarea{
+        width: 100%;
+    }
+
+    footer .container{
+        flex-direction: column;
+        width: 90%;
+    }
+
+    footer .about{
+        width: 50%;
+    }
+
+    footer .contact-details{
+        position: absolute;
+        top: 0%;
+        left: 50%;
+        width: 49%;
+
+    }
+
+
+    footer  .subscribe{
+        width: 100%;
+    }
+
+    .subscription-group input{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .subscription-group .btn{
+        width: 100%;
+    }
+
+    footer .quick-links h3{
+        padding: 0;
+    }
+ }
+
+
+
+ @media screen and (min-width:993px) and (max-width:1200px){
+
+    #chefs .container{
+        width: 95%;
+    }
+
+    #gallery .container{
+        width: 90%;
+    }
+
+    .input-group input{
+        width: 49%;
+    }
+
+    
+    footer .about{
+        width: 25%;
+    }
+
+    .subscription-group .btn{
+        width: 80%;
+    }
+
+
+    footer  .subscribe{
+        width: 45%;
+    }
+
+ }
+ 
+
+
+
+
